@@ -6,7 +6,7 @@ from division import divide
 def main():
     print("Simple Calculator Program")
     
-    a = 1000
+    a = 3000
     b = 1000
     
     print(f"Addition of {a} and {b}: {add(a, b)}")

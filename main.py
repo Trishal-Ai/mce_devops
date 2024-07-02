@@ -7,7 +7,7 @@ def main():
     print("Simple Calculator Program")
     
     a = 2000
-    b = 1000
+    b = 3000
     
     print(f"Addition of {a} and {b}: {add(a, b)}")
     print(f"Subtraction of {a} and {b}: {subtract(a, b)}")
